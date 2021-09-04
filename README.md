@@ -1,19 +1,25 @@
-# Aritim-Dark
+# spicetify-themes
 
-A modified version of the existing theme to be compatible with the new Spotify UI
+My own personal collection of spicetify themes
 
 ## Screenshots
 
-### Previous
-![Aritim-Dark](screenshot.png)
+### Aritim-Dark
+Highly inspired by [Aritim-Dark](https://github.com/Mrcuve0/Aritim-Dark)
 
-### New
-![Aritim-Dark-New](screenshot-new.png)
+![Aritim-Dark](./screenshots/aritim-dark.png)
+
+### Gruvbox Material
+Inspiration by [Gruvbox Material](https://github.com/sainnhe/gruvbox-material)
+
+![Gruvbox-Material](./screenshots/gruvbox-material.png)
+
+## Changing Themes
+
+```bash
+spicetify config color_scheme [aritim-dark|gruvbox-material]
+```
 
 ## Credits
-Theme developed by [kaluk1321](https://github.com/kaluk1321)
-
-Modified by [simonrodrig](https://github.com/simonrodrig)
-
-## Aritim-Dark
-Highly inspired by [Aritim-Dark](https://github.com/Mrcuve0/Aritim-Dark)
+Aritim Dark theme developed by [kaluk1321](https://github.com/kaluk1321)
+Modifications by [simonrodrig](https://github.com/simonrodrig)
